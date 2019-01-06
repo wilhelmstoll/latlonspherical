@@ -1,4 +1,4 @@
-# latlonspherical
+# latlonspherical [![GoDoc](https://godoc.org/github.com/wilhelmstoll/latlonspherical?status.svg)](https://godoc.org/github.com/wilhelmstoll/latlonspherical)
 
 Pure go implementation of geodetic (lat-/longitude) functions, transcribed in part from JavaScript (MIT Licence) originals by Chris Veness (http://www.Movable-Type.co.UK/scripts/latlong.html).
 
@@ -28,3 +28,6 @@ func main() {
 	fmt.Println(distance)
 }
 ```
+## Reference
+
+https://godoc.org/github.com/wilhelmstoll/latlonspherical
